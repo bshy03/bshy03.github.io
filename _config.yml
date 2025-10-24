@@ -1,1 +1,6 @@
+title: "My Portfolio"
+description: "My projects and art"
+baseurl: "/portfolio" 
+url: "https://bshy2003.github.io"
 theme: jekyll-theme-minimal
+author: BSHY
